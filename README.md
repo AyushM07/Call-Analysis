@@ -1,8 +1,23 @@
-# Call-Analysis
-Tools For Analysis (E4501 Sec 002)
-Group Project- Project Group 71
-Group Members- Ayush Madhogaria (UNI: am5685)
-               Jugal Shah       (UNI: js5950)
-         
+# Call Analysis
+
+# About the team
+
+This repository was made as part for a group project in the course Tools For Analysis (E4501 Sec 002) at Columbia University.
+The project is made by: Group Project- Project Group 71
+                        Ayush Madhogaria (UNI: am5685)
+                        Jugal Shah       (UNI: js5950)
+
+
+# Description 
+
+This project involves analysing the dataset containing calls made to 311 for non-emergency services in the year 2020.
+-The Top10 notebook analyzes the top 10 causes of calls made to 311 in the zip code 10027, and outputs a pandas series reporting a list of the cause, with the   number of calls made relating to that particular cause. 
+-
+
+# Table of Contents
+1) Top10
+2) Parking
+
+
 
 
